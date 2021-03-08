@@ -1,15 +1,16 @@
 {
-    "name": "dugajean/laravel-yaml",
-    "description": "YAML parser for Laravel.",
+    "name": "athmarios/yaml-response",
+    "description": "YAML parser for Laravel 8.",
     "keywords": [
         "yaml",
         "laravel-yaml",
         "laravel",
+        "laravel-8",
         "api",
         "response",
         "response-type"
     ],
-    "homepage": "https://github.com/dugajean/laravel-yaml",
+    "homepage": "https://github.com/MariosTheof/laravel-yaml",
     "license": "MIT",
     "authors": [
         {
@@ -17,14 +18,19 @@
             "email": "dukagjin.surdulli@gmail.com",
             "homepage": "https://dukagj.in",
             "role": "Developer"
+        },
+        {
+            "name": "Marios Athanasiadis",
+            "email": "athmarios@agenso.gr",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php" : ">=5.5.9",
-        "symfony/yaml": "^3.1.1"
+        "php" : ">=7.0",
+        "symfony/yaml": "^5.2.4"
     },
     "require-dev": {
-        "phpunit/phpunit" : "^4.0",
+        "phpunit/phpunit" : "^9.0",
         "orchestra/testbench": "~3.0"
     },
     "autoload": {
