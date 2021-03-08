@@ -1,8 +1,6 @@
 # Laravel YAML
 
-[![GitHub issues](https://img.shields.io/github/issues/athmarios/laravel-yaml.svg)](https://github.com/athmarios/laravel-yaml/issues) 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/athmarios/laravel-yaml/master/LICENSE) 
-[![Packagist](https://img.shields.io/packagist/dt/athmarios/laravel-yaml.svg?maxAge=2592000)](https://packagist.org/packages/athmarios/yaml-response)
 
 This package will allow your application to determine whether the request wants a YAML response and then also respond with YAML. Made to work for laravel 8.
 
