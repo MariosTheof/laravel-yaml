@@ -9,6 +9,7 @@
         "laravel-7",
         "api",
         "response",
+        "responses",
         "response-type"
     ],
     "homepage": "https://github.com/MariosTheof/laravel-yaml",
